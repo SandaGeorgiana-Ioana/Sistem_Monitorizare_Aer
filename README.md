@@ -1,3 +1,8 @@
+Documentatie
+
+[Proiect_Detector_de_Calitatea_Aerului.pdf](https://github.com/user-attachments/files/25872025/Proiect_Detector_de_Calitatea_Aerului.pdf)
+
+
 Poze cu proiectul
 
 <img width="928" height="694" alt="Captură de ecran 2026-03-10 155158" src="https://github.com/user-attachments/assets/f4092910-7809-4430-93d2-8959b31bff34" />
